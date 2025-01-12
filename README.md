@@ -1,1 +1,1 @@
-This are tables needed to implement the IBPW design
+These are tables needed to implement the IBPW design
